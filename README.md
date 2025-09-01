@@ -24,10 +24,14 @@ A lightweight Python GUI tool for organizing and filtering **Nvidia ShadowPlay c
 
 ## 📁 Folder Structure
 
-nvidia-clip-filter/ │ 
+```
+nvidia-clip-filter/ 
+│ 
 ├── main.py  # GUI application
 ├── filter.py  # Contains filter() function used to process clips
 └── README.md  # This file
+```
+
 
 ## 📂 How It Works
 
@@ -54,7 +58,7 @@ The app will:
 
 ## 🧑‍💻 Author
 
-**Kacper** — built for gamers, by a gamer.
+**Grzelus** — build for clippers
 
 ---
 
